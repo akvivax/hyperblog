@@ -1,0 +1,5 @@
+Este es el archivo de prueba del curso de Git
+
+Alex Vivas 46 años
+
+Vive en Bogotá
