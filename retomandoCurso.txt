@@ -2,4 +2,6 @@ alex vivas retoma el curso de git en platzi con el animo de finalizarlo
 fecha: 16 de enero de 2023
 esta si es la vencida
 
+master 1
+
 mañana sera otro dia donde segiremos estudiando para mejorar
